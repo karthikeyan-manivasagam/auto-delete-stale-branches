@@ -1,1 +1,1 @@
-# stalebranches
+# Auto delete stalebranches
