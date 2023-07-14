@@ -6,6 +6,6 @@ The above workflow file deletes the stale branches every month on the day 1 & pr
 
     @beatlabs/delete-old-branches-action
 
-* *Just download the cleaner.yml and configure in your repos, note if you have enterprise subscription of github you can apply this cleaner in organisation level* *
+**Just download the cleaner.yml and configure in your repos, note if you have enterprise subscription of github you can apply this cleaner in organisation level* *
 
 
