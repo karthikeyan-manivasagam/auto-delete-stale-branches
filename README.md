@@ -2,7 +2,7 @@
 
 ###### The above workflow file deletes the stale branches every month on the day 1 & provides options to delete stale branches by filtering branches being stale for months.
 
-##### Used the existing github action
+###### Used the existing github action & tweaked it
 
 ###### beatlabs/delete-old-branches-action
 
