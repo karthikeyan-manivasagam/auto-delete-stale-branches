@@ -6,7 +6,7 @@ on:
       daysAgo:
         description: 'Delete branches updated'
         required: true
-        default: '3 momths ago'
+        default: '3 months ago'
         type: choice
         options:
         - 1 month ago
